@@ -1,2 +1,2 @@
-# AbsensiBPS
-Absensi BPS
+# AbsenBPS
+Absen BPS
